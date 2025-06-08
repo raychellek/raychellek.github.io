@@ -65,4 +65,4 @@ author_profile: true
 
 ---
 
-> 💡 *Tip: Update screenshots to match the actual images in your `/assets/images/` folder.*
+
