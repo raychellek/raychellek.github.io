@@ -1,3 +1,11 @@
+
+---
+title: "Projects"
+layout: single
+permalink: /projects/
+author_profile: true
+---
+
 ## 💼 Projects
 
 ### 🌱 Eco-Friendly Lifestyle Guide Web Application (EarthWise)  
