@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Raychelle Karuga"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/raychelle_passport"
   bio    : "I am a student passionate about pursuing a career in cybersecurity.."
   links:
     #- label: "Website"
