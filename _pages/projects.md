@@ -1,22 +1,36 @@
- Eco -Friendly Lifestyle Guide Web Application (EarthWise)
- May 2024 -  Aug 2024
- Platform where users can access Challenges, Tips and a Community of like- minded individuals
- Brought together 3 elements; Tips, Challenges and a Community, making it a one stop application
- Eco -Friendly Lifestyle Planner Web Application 
-Jan 2025 - April 2025
- Platform for users to be provided with a generated plan leveraging Firebase GenKit’s generative AI 
-Solved the static nature of challenges provided in the plan by tailoring goals to fit the user’s habits
- Utilizes Secure Sockets Layer (SSL) that ensures secure communication.  
-Simple E-Commerce Application
- June 2024 - July 2024
- Simple mobile application for managing stock for a virtual chain of restaurants
- UI/UX of the application for both the admin side and the customer side
- Weather Prediction Application
- Oct 2023 - Nov 2023
- Platform for users to check weather predictions in the top cities of the world for upto one week after
- the current date
- Integrated OpenWeather API 
-Simple Motion Detector Circuit
- Feb 2023 - March 2023
- Simple design for a motion sensor created using Arduino that displays a message when motion is
- detected.
+## 💼 Projects
+
+### 🌱 Eco-Friendly Lifestyle Guide Web Application (EarthWise)  
+**May 2024 – Aug 2024**  
+- Developed a platform where users can access **Challenges**, **Tips**, and a **Community** of like-minded individuals.  
+- Brought together these three elements to create a **one-stop eco-friendly lifestyle application**.
+
+---
+
+### 🌍 Eco-Friendly Lifestyle Planner Web Application  
+**Jan 2025 – April 2025**  
+- Built a platform that provides users with a **personalized sustainability plan** using **Firebase GenKit’s generative AI**.  
+- Solved the static nature of pre-set challenges by **tailoring goals to user habits**.  
+- Implemented **Secure Sockets Layer (SSL)** for secure communication.
+
+---
+
+### 🛒 Simple E-Commerce Application  
+**June 2024 – July 2024**  
+- Created a mobile application to **manage stock** for a virtual restaurant chain.  
+- Designed the **UI/UX for both the admin and customer sides** of the application.
+
+---
+
+### ☁️ Weather Prediction Application  
+**Oct 2023 – Nov 2023**  
+- Developed a platform for users to check **weather forecasts** in major cities up to one week ahead.  
+- **Integrated OpenWeather API** for real-time data.
+
+---
+
+### 🚨 Simple Motion Detector Circuit  
+**Feb 2023 – March 2023**  
+- Designed a basic **motion sensor circuit using Arduino**.  
+- Displays a message when motion is detected, demonstrating basic embedded systems skills.
+
