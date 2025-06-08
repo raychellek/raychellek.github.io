@@ -5,12 +5,7 @@
 layout: home
 author_profile: true
 ---
----
-layout: home
-title: "Curriculum Vitae"
-permalink: /cv/
-author_profile: true
----
+
 
 # Curriculum Vitae – Raychelle Karuga
 
