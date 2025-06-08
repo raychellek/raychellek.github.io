@@ -6,8 +6,6 @@ layout: tags
 author_profile: true
 ---
 
----
-
 ## 💼 Projects
 
 ### 🌱 Eco-Friendly Lifestyle Guide Web Application (EarthWise)  
