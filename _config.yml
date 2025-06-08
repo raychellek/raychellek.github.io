@@ -55,6 +55,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 author:
   name   : "Raychelle Karuga"
   avatar : "/assets/images/raychelle_passport"
