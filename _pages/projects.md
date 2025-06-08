@@ -1,9 +1,10 @@
 
 ---
 title: "Projects"
-layout: tags
 permalink: /projects/
+layout: tags
 author_profile: true
+---
 
 ---
 
