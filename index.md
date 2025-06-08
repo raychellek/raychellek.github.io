@@ -42,3 +42,21 @@ _May 2024 – August 2024_
 **President's Award Club kenya – Member **  
 _2021 – 2022_
 
+---
+
+## 🛠️ Skills
+
+### 💻 Technical Skills
+- **Programming Languages:**  HTML/CSS,JavaScript
+- **Cybersecurity:** Fundamentals in Security Principles and Access Control Concepts, Understanding of networking fundamentals - TCP/IP, OSI,Business Continuity,Disaster Recovery and Incident Reponse Concepts.
+- **Databases:** Firebase Firestore
+- **APIs & Tools:** OpenWeather API
+- **Version Control:** GitHub
+
+---
+
+
+### 🌐 Soft Skills
+- Problem Solving & Critical Thinking  
+- Collaboration & Teamwork   
+- Time Management & Self-Motivation
