@@ -58,7 +58,7 @@ author_profile: true
 
 ---
 
-> 💡 Keep revisiting these labs periodically — especially as your skills grow. Each revisit reveals something new!
+
 
 
 
