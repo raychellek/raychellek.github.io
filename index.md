@@ -28,7 +28,7 @@ Industry certfications :
 ---
 
 ## 🤝 Community Service
-
+**Mji wa Huruma, Runda-Elderly Home** 
 **Volunteer**  
 _May 2024 – August 2024_  
 - Completed 90 hours of community service at the home.
