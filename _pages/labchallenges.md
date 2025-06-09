@@ -6,63 +6,59 @@ author_profile: true
 ---
 
 
-## 🧪 Lab Challenges
+## 🔬 Lab Challenges
 
-### 🔐 Challenge 1: SQL Injection (Web Security Fundamentals)  
-**Platform:** TryHackMe  
-**Problem Statement:** Exploit a vulnerable login page using SQL injection to bypass authentication.  
+### 🧩 Challenge 1: Getting Started — Hack The Box  
+**Problem Statement:** Understand the structure of HTB labs, access an instance, and retrieve your first flag.  
 **Approach:**  
-- Identified the input field was vulnerable to SQLi using `' OR '1'='1`.  
-- Used `sqlmap` to automate database enumeration.  
-**Tools Used:** Burp Suite, sqlmap, browser dev tools  
-**Screenshot:**  
-![SQLi Screenshot](/assets/images/sqli_lab.png)  
+- Set up a VPN connection to access HTB’s private network.  
+- Launched the target machine and used enumeration techniques to discover the web server.  
+- Found a hidden flag by inspecting the source code.  
+**Tools Used:** OpenVPN, browser dev tools, basic `nmap`  
 **Lessons Learned:**  
-- Gained hands-on experience with input sanitization flaws.  
-- Learned how to identify and test for SQL injection manually and with tools.
+- Importance of connectivity and setup in a penetration testing lab.  
+- Basic enumeration can reveal valuable information with minimal tools.
 
 ---
 
-### 🛡️ Challenge 2: Broken Authentication  
-**Platform:** OWASP Juice Shop  
-**Problem Statement:** Gain unauthorized access to a user account.  
+### 🐍 Challenge 2: Python Basics — TryHackMe  
+**Problem Statement:** Learn foundational Python skills for cybersecurity tasks.  
 **Approach:**  
-- Discovered weak password reset implementation.  
-- Used predictable token to reset another user’s password.  
-**Tools Used:** Burp Suite, Firefox Dev Tools  
-**Screenshot:**  
-![Broken Auth](/assets/images/broken_auth.png)  
+- Wrote Python scripts for basic operations like file handling, loops, and conditionals.  
+- Practiced automation tasks like reading from logs and making requests to web APIs.  
+**Tools Used:** Python 3, VS Code, terminal  
 **Lessons Learned:**  
-- Understood the importance of secure token generation and session management.  
+- Scripting can speed up repetitive tasks in cybersecurity.  
+- Understanding Python is key for both offensive and defensive roles.
 
 ---
 
-### 🧠 Challenge 3: Basic Linux Privilege Escalation  
-**Platform:** Hack The Box  
-**Problem Statement:** Gain root access on a Linux box with limited user access.  
+### 🔎 Challenge 3: Passive Reconnaissance — TryHackMe  
+**Problem Statement:** Perform passive reconnaissance without directly interacting with the target system.  
 **Approach:**  
-- Enumerated sudo rights with `sudo -l`  
-- Exploited `nano` with elevated permissions  
-**Tools Used:** LinPEAS, GTFOBins, SSH  
-**Screenshot:**  
-![Privilege Escalation](/assets/images/linux_privesc.png)  
+- Used WHOIS, DNS lookups, and Google dorking to gather info.  
+- Discovered subdomains and public metadata using passive OSINT tools.  
+**Tools Used:** `whois`, `nslookup`, `theHarvester`, `crt.sh`  
 **Lessons Learned:**  
-- Importance of Linux enumeration  
-- How misconfigured sudo permissions can be escalated
+- Passive recon helps you stay stealthy and avoid detection.  
+- A lot of information is already publicly available — if you know where to look.
 
 ---
 
-### 🧩 Challenge 4: Steganography - Hidden Flag in Image  
-**Platform:** PicoCTF  
-**Problem Statement:** Extract a hidden message/flag embedded in an image.  
+### 🌐 Challenge 4: DNS in Detail — TryHackMe  
+**Problem Statement:** Understand how the DNS system works and how it can be leveraged during recon and attacks.  
 **Approach:**  
-- Used `steghide` and `zsteg` for analysis  
-- Discovered flag hidden in LSB (Least Significant Bit)  
-**Tools Used:** steghide, zsteg, binwalk  
+- Studied different DNS record types (A, AAAA, MX, TXT, etc.).  
+- Performed zone transfers and subdomain enumeration.  
+- Analyzed how DNS poisoning and tunneling work.  
+**Tools Used:** `dig`, `nslookup`, `dnsenum`, `fierce`  
 **Lessons Learned:**  
-- How digital images can be manipulated to carry hidden data  
-- Improved attention to file metadata and encoding
+- DNS is a vital protocol in the recon phase.  
+- Misconfigured DNS can lead to major information leakage.
 
 ---
+
+> 💡 Keep revisiting these labs periodically — especially as your skills grow. Each revisit reveals something new!
+
 
 
