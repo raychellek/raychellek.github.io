@@ -1,6 +1,6 @@
 ---
-title: "Lab challenges"
-permalink: /labchallenges/
+title: "Contacts"
+permalink: /contacts/
 layout: tags
 author_profile: true
 ---
