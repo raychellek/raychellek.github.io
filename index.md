@@ -23,7 +23,7 @@ author_profile: true
 Industry certfications : 
 - **Cyber Security Prep Course** – Issued by Moringa School, 2024
 - **Certified in Cybersecurity** – ISC2, 2024
-- **Security Analyst** – Cybershujaa, Current
+- **Security Analyst** – Cybershujaa, Sept 2025
 
 ---
 
