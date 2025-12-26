@@ -63,7 +63,7 @@ collections:
 author:
   name   : "Raychelle Karuga"
   avatar : "/assets/images/raychelle.JPG"
-  bio    : "I am a student passionate about pursuing a career in cybersecurity.."
+  bio    : "I am passionate about pursuing a career in cybersecurity."
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
